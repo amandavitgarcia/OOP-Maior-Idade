@@ -1,0 +1,15 @@
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\obj\Debug\net6.0\PooMaiorIdade.csproj.AssemblyReference.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\obj\Debug\net6.0\PooMaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\obj\Debug\net6.0\PooMaiorIdade.AssemblyInfoInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\obj\Debug\net6.0\PooMaiorIdade.AssemblyInfo.cs
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\obj\Debug\net6.0\PooMaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\bin\Debug\net6.0\PooMaiorIdade.exe
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\bin\Debug\net6.0\PooMaiorIdade.deps.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\bin\Debug\net6.0\PooMaiorIdade.runtimeconfig.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\bin\Debug\net6.0\PooMaiorIdade.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\bin\Debug\net6.0\ref\PooMaiorIdade.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\bin\Debug\net6.0\PooMaiorIdade.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\obj\Debug\net6.0\PooMaiorIdade.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\obj\Debug\net6.0\ref\PooMaiorIdade.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\obj\Debug\net6.0\PooMaiorIdade.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\PooMaiorIdade\PooMaiorIdade\obj\Debug\net6.0\PooMaiorIdade.genruntimeconfig.cache
